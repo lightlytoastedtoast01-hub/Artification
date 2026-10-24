@@ -1,0 +1,12 @@
+GPIO6 - Charging circuit status pullup (CHRG)
+GPO10 - Led Control Pin (DIN)
+GPIO17 - Gauge Low battery warning pullup (ALRT#)
+GPIO37 - SCL I2C (SCL)
+GPIO38 - SDA I2C (SDA)
+GPIO9 - Boot Button Pin
+LNA_IN - Reset Pin (direcct connection to enable pin, no firmware access)
+GPIO20 - nCS pin (IMU1)
+GPIO36 - SDA pin (shared IMU1, IMU2)
+GPIO34 - SCL pin (shared IMU1, IMU2)
+GPIO33 - nCS pin (IMU 2)
+GPIO35 - SDO pin (shared IMU1, IMU2)
